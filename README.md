@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">💫 Who am i ?</h1>
 
-I'm a young passionnate dev 🪴, currently working on small game with [pico-8](https://www.lexaloffle.com/pico-8.php) 🕹️
+I'm a young passionnate dev 🪴, currently i'm learning Java ☕
 
-I really enjoy coding thing from scratch, and i'm learning Java ☕
+I really enjoy coding thing from scratch, and i like to mess with [pico-8](https://www.lexaloffle.com/pico-8.php) 🕹️
 
 
 <h3 align="left">💻 Tech Stack 🐀</h1>
